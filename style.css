@@ -13,19 +13,20 @@ body {
 }
 
 .yellow-box {
-  background-color: yellow; 
+  background-color: yellow;
+  padding: 10px; 
 }
 
 .red-box {
-  background-color: red;
+  background-color: crimson;
   color: #fff;
-  padding: 30px;
-  margin: -20px;
+  padding: 20px;
+  margin: -15px;
 }
 
 .blue-box {
   background-color: blue;
   color: #fff;
   padding: 20px;
-  margin: -20px;
+  margin:  -15px;
 }
