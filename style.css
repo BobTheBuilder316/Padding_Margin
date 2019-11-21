@@ -1,3 +1,7 @@
+body {
+  margin: 20px;
+}
+
 .injected-text {
   margin-bottom: -25px;
   text-align: center;
@@ -15,13 +19,13 @@
 .red-box {
   background-color: red;
   color: #fff;
-  padding: 20px;
-  margin: 20px;
+  padding: 30px;
+  margin: -20px;
 }
 
 .blue-box {
   background-color: blue;
   color: #fff;
   padding: 20px;
-  margin: 20px;
+  margin: -20px;
 }
